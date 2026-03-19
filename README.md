@@ -1,2 +1,3 @@
-# mini-task-manager-iukm
-A task management tool for modern development workflows
+# Mini Task Manager Iukm
+
+A task management tool for modern development workflows.
